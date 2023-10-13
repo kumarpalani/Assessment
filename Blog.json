@@ -1,0 +1,31 @@
+{
+  "title": "The world's leading",
+  "subTitle": "production company",
+  "bgImg": "http:Url",
+  "Buttonimg": "",
+  "log": "",
+  "contentArr": ["Palani", "print", "broadcast", "conceptual", "creative"],
+  "textColor": ["#DEF034", "#EA5E39", "#DEF034", "#EA5E39", "#FFFFFF"],
+  "content": [
+    {
+      "username": "officialrajdeepsingh",
+      "fullName": "Rajdeep Singh",
+      "aboutAuthor": "Read Book, Music Lover and Web Developer"
+    },
+    {
+      "username": "Esme",
+      "fullName": "Esme Sullivan",
+      "aboutAuthor": "Graet Book Reader"
+    },
+    {
+      "username": "Dennis",
+      "fullName": "Dennis Thompson",
+      "aboutAuthor": " Love Football, Music Lover"
+    },
+    {
+      "username": "Amelia",
+      "fullName": "Amelia Sanchez",
+      "aboutAuthor": "Read Book, Music Lover and Web Developer"
+    }
+  ]
+}
